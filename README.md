@@ -1,17 +1,15 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Objetos Inteligentes Conectados] 2 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05k12
+## Projeto: "SmartIrrigator"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Lucas Oliveira de Viveiros - TIA: 31527493
+* Vitor dos Santos Costa - TIA: 31527371
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+Irrigador automatizado para plantas que é ativado por sensores de humidade do solo com comunicação via app no seu smartphone.
 
 _______________________________________
 Obs:
